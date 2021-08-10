@@ -1,1 +1,2 @@
-# Flight_Ticket_prediction
+## Flight Ticket prediction
+Flight ticket prediction using predictive modelling
